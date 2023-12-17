@@ -32,7 +32,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 <table width=100%>
   <thead align="center">
     <tr border: none;>
-      <td><b>Рабочие проекты</b></td>
+      <td><b>Репозитории</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
     </tr>
